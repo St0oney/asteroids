@@ -13,4 +13,5 @@ wheels/
 game_state.json
 
 # My Own additions
-game_state.jsonll
+game_state.jsonl
+game_events.jsonl
